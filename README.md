@@ -14,6 +14,7 @@ This is a simple text-based adventure game where your mission is to find the tre
 -> Invalid choices result in game over messages, while correct choices advance the player toward the treasure.
 
 **Features**
+
 -> Simple text-based input and output.
 
 -> Multiple decision points affecting the outcome.
