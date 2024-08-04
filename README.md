@@ -1,6 +1,9 @@
 # MINI_DUNGEONS_AND_DRAGONS
 This is a simple text-based adventure game where your mission is to find the treasure. Navigate through choices and make the right decisions to survive and win the game.
 
+![image](https://github.com/user-attachments/assets/593c16a4-88d0-43f9-a5eb-27859341a61f)
+
+
 **How to Play**
 
 -> Start the Game: You'll be presented with an initial choice to go left or right.
