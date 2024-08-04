@@ -21,3 +21,5 @@ This is a simple text-based adventure game where your mission is to find the tre
 -> Simple text-based input and output.
 
 -> Multiple decision points affecting the outcome.
+
+-> Randomized!
